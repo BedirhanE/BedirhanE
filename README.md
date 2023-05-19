@@ -3,7 +3,8 @@ My name is Bedirhan Elçin I am a student at Celal Bayar University. My departme
 
 `I want to improve myself`
 
-![image](https://github.com/BedirhanE/BedirhanE/assets/79866900/fb605197-b617-4d82-9444-f0c853bbf2bb)
+![image](https://github.com/BedirhanE/BedirhanE/assets/79866900/cc4bf7ce-e6f5-4235-bc4a-85ba4e514f3a)
+
 
 <!--
 **BedirhanE/BedirhanE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
