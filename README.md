@@ -3,9 +3,12 @@ My name is Bedirhan Elçin
 I am a student at Celal Bayar University.
 My department is Computer Engineering,I love software.
 
-`I want to improve myself`
+`I want  improve myself`
 
 ![Software Engineering](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=BedirhanE&show_icons=true&theme=gradient) 
+
 
 
 
