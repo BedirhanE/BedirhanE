@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Bedirhan Elçin I am a student at Celal Bayar University. My department is Computer Engineering,I love software.  
 
 <!--
 **BedirhanE/BedirhanE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
