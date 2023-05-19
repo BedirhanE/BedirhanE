@@ -3,7 +3,7 @@ My name is Bedirhan Elçin I am a student at Celal Bayar University. My departme
 
 `I want to improve myself`
 
-![Software Engineering](https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif)
+![Software Engineering](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
 
