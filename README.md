@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Bedirhan Elçin I am a student at Celal Bayar University. My department is Computer Engineering,I love software.
 
-[Instagram](https://instagram.com/bedirhn_elcn?igshid=Y2M0YTlkZGNmOQ==) – Instagram Accoun
+`I want to improve myself`
 
 <!--
 **BedirhanE/BedirhanE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
