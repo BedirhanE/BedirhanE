@@ -8,7 +8,7 @@ My department is Computer Engineering,I love software.
 ![Software Engineering](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=BedirhanE&show_icons=true&theme=gradient) 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=BedirhanE&show_icons=true&theme=radical)
 
 
