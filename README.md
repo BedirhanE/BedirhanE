@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Bedirhan Elçin I am a student at Celal Bayar University. My department is Computer Engineering,I love software.
+My name is Bedirhan Elçin
+I am a student at Celal Bayar University.
+My department is Computer Engineering,I love software.
 
 `I want to improve myself`
 
