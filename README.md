@@ -9,7 +9,7 @@ My department is Computer Engineering,I love software.
 
 ![Software Engineering](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
-<td><a style="color: white;text-decoration: none;" href="https://www.linkedin.com/in/bedirhan-el%C3%A7in" target="_blank" rel="noopener noreferrer" title="Website"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></img></a></td>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/BedirhanE) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/bedirhn_elcn?igshid=Y2M0YTlkZGNmOQ==) 
 
