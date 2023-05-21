@@ -8,6 +8,8 @@ My department is Computer Engineering,I love software.
 - Java ♨️
 - Python 🐍
 - C# 🔷
+- SQL 🗃️
+- .NET 🌐
  
 
 ![Software Engineering](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
