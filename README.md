@@ -15,7 +15,7 @@ My department is Computer Engineering,I love software.
 ![Software Engineering](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
  # MY CONTACT ACCOUNTS:<br />
-[![LinkedIn](https://www.linkedin.com/in/bedirhan-el%C3%A7in)](https://www.linkedin.com/in/bedirhan-el%C3%A7in)
+[![LinkedIn](https://media.licdn.com/dms/image/D4D03AQHMbL5Fy9XMyQ/profile-displayphoto-shrink_200_200/0/1683732096164?e=1690416000&v=beta&t=mCvoGHWMavUFNIQLmOa-WusHCt8v0ZFt1Jvk66DFdy4)](https://www.linkedin.com/in/bedirhan-el%C3%A7in)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/BedirhanE) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/bedirhn_elcn?igshid=Y2M0YTlkZGNmOQ==) 
 
