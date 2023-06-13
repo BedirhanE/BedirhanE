@@ -2,7 +2,7 @@
 My name is Bedirhan Elçin
 I am a student at Celal Bayar University.
 My department is Computer Engineering, 
-I love software.
+I love software. 
 
 `---I want  improve myself---`
  # Languages and Tools:<br />
