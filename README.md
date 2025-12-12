@@ -23,7 +23,7 @@ My main interests are computer vision, Python-based automation, UI/UX developmen
 <a href="mailto: elcinbedirhan1@gmail.com" style="color: #3a5a5b;text-decoration: none;"title="Mail atmak için tıklayın"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></img></a></tr>
  
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=BedirhanE&show_icons=true&theme=radical)
+
 
 
 
