@@ -1,8 +1,8 @@
 #### Hi there 👋    
-My name is Bedirhan Elçin
-I am a student at Celal Bayar University.
-My department is Computer Engineering, 
-I love software. 
+Hi, I’m Bedirhan Elçin.
+I’m a Software Engineer based in Ankara, Türkiye, with a degree in Computer Engineering from Celal Bayar University. I focus on building scalable, efficient, and user-oriented software solutions.
+
+My main interests are computer vision, Python-based automation, UI/UX development, and backend systems. I enjoy solving real-world problems through clean and maintainable code. 
 
 `---I want to improve myself---`
  # Languages and Tools:<br />
